@@ -16,7 +16,7 @@ Animal Hospital Search Service Project의 모든 소유는 통금회에 있습�
 
 >> sound605@gmail.com
 
-> advisory:
+> Advisory:
 >> Jaymin Lee, Electronics and Telecommunication Research Institute (ETRI)
 
 >> leejaymin@cnu.ac.kr
