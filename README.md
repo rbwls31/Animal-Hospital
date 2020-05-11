@@ -45,4 +45,4 @@ Animal Hospital Search Service Project의 모든 소유는 통금회에 있습�
 
 >> Taedong Lee, Alright Guest House in Goseong Gun
 
->> blog.naver.com/ltd2063
+>> https://blog.naver.com/ltd2063
