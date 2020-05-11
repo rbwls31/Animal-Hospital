@@ -28,3 +28,15 @@ Animal Hospital Search Service Project의 모든 소유는 통금회에 있습�
 >> Project Manager
 
 >> suhkjun@gmail.com
+
+>> Gyujin Choi, Lotte Data Communication Company
+
+>> developer
+
+>> cgj31@gmail.com
+
+>> Wooseung Jo, Korea Institute of Science and Technology Information(KISTI)
+
+>> Researcher
+
+>> champion29@gmail.com
