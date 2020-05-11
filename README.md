@@ -40,3 +40,9 @@ Animal Hospital Search Service Project의 모든 소유는 통금회에 있습�
 >> Researcher
 
 >> champion29@gmail.com
+
+>> Taedong Lee, Alright Guest House in Goseong Gun
+
+>> Supporter
+
+>> ltd2063@naver.com
