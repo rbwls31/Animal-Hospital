@@ -5,7 +5,7 @@ Animal Hospital Search Service
 
 ## 라이센스
 
-Animal Hospital Search Service 관련 자료는 통금회에 모든 소유권이 있습니다.
+Animal Hospital Search Service Project의 모든 소유권은 통금회에 있습니다.
 
 ## Contact ##
 
