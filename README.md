@@ -23,21 +23,15 @@ Animal Hospital Search Service Project의 모든 소유는 통금회에 있습�
 
 >> Project Manager, 
 
->> Suhkjun Jung
-
->> suhkjun@gmail.com
+>> Suhkjun Jung, suhkjun@gmail.com
 
 >> Developer, 
 
->> Gyujin Choi
-
->> cgj31@gmail.com
+>> Gyujin Choi, cgj31@gmail.com
 
 >> Researcher, 
 
->> Wooseung Jo
-
->> champion29@gmail.com
+>> Wooseung Jo, champion29@gmail.com
 
 > Supporter:
 
