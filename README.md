@@ -10,34 +10,24 @@ Animal Hospital Search Service Project의 모든 소유는 통금회에 있습�
 ## Contact ##
 
 > Project Leader:
->> Kyungjun Yun, Realtimetech.co.kr,
-
->> Principal Member of Engineering Staff
+>> Kyungjun Yun, Principal Member of Engineering Staff
 
 >> sound605@gmail.com
 
 > Advisory:
->> Jaymin Lee, Electronics and Telecommunication Research Institute (ETRI)
-
->> leejaymin@cnu.ac.kr
+>> Jaymin Lee, leejaymin@cnu.ac.kr
 
 > Maintainer:
 
->> Suhkjun Jung, Lotte Data Communication Company
-
->> Project Manager
+>> Suhkjun Jung, Project Manager
 
 >> suhkjun@gmail.com
 
->> Gyujin Choi, Lotte Data Communication Company
-
->> developer
+>> Gyujin Choi, developer
 
 >> cgj31@gmail.com
 
->> Wooseung Jo, Korea Institute of Science and Technology Information(KISTI)
-
->> Researcher
+>> Wooseung Jo, Researcher
 
 >> champion29@gmail.com
 
