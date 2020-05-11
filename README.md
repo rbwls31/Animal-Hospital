@@ -3,9 +3,9 @@ Animal Hospital Search Service
 
 > 이 프로젝트는 통금회에서 제작된 코드입니다.
 
-## 라이센스
+## License
 
-Animal Hospital Search Service Project의 모든 소유권은 통금회에 있습니다.
+Animal Hospital Search Service Project의 모든 소유는 통금회에 있습니다.
 
 ## Contact ##
 
