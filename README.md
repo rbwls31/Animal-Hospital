@@ -31,7 +31,7 @@ Animal Hospital Search Service Project의 모든 소유는 통금회에 있습�
 
 >> Researcher
 
->> Wooseung Jo, champion29@gmail.com
+>> Wooseung Jo, champion1824@gmail.com
 
 > Supporter:
 
