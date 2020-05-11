@@ -10,7 +10,7 @@ Animal Hospital Search Service Project의 모든 소유는 통금회에 있습�
 ## Contact ##
 
 > Project Leader:
->> Kyungjun Yun, Principal Member of Engineering Staff, Jungle
+>> Kyungjun Yun, Principal Member of Engineering Staff
 
 >> sound605@gmail.com
 
@@ -19,20 +19,20 @@ Animal Hospital Search Service Project의 모든 소유는 통금회에 있습�
 
 > Maintainer:
 
->> Project Manager, Suhkjun Jung, Mid
+>> Project Manager, Suhkjun Jung
 
 >> suhkjun@gmail.com
 
->> Developer, Gyujin Choi, Supporter
+>> Developer, Gyujin Choi
 
 >> cgj31@gmail.com
 
->> Researcher, Wooseung Jo, Top
+>> Researcher, Wooseung Jo
 
 >> champion29@gmail.com
 
 > Supporter:
 
->> Taedong Lee, Alright Guest House, AD 
+>> Taedong Lee, Alright Guest House
 
 >> https://blog.naver.com/ltd2063
